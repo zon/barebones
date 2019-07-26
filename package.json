@@ -1,0 +1,22 @@
+{
+  "name": "barebones",
+  "version": "0.0.0",
+  "description": "Learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zon/barebones.git"
+  },
+  "author": "Matthew Z Haralovich <zon@haralovich.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zon/barebones/issues"
+  },
+  "homepage": "https://github.com/zon/barebones#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
